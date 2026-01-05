@@ -1,8 +1,8 @@
-prettierignore
-prettierrc
+.prettierignore
+.prettierrc
 app.log
 logger.js
 package-lock.json
 package.json
 .env
-.node_modules/
+node_modules/
